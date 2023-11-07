@@ -1,2 +1,3 @@
 # odin-recipes
-First odin project
+First odin project!
+Made with HTML and CSS
